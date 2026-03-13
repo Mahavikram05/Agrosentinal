@@ -1,0 +1,272 @@
+{
+  "Tamil Nadu": {
+    "capital": "Chennai",
+    "districts": {
+      "Coimbatore": {
+        "crops": ["Cotton", "Maize", "Turmeric", "Groundnut", "Coconut"],
+        "season": "Kharif/Rabi",
+        "diseases": ["Cotton Bollworm", "Leaf Blight", "Alternaria Blight"],
+        "soil": "Red loamy",
+        "rainfall_mm": 650,
+        "temperature_c": "25-35",
+        "water_requirement": "Moderate"
+      },
+      "Madurai": {
+        "crops": ["Rice", "Sugarcane", "Jasmine", "Banana", "Pulses"],
+        "season": "Kharif/Rabi",
+        "diseases": ["Rust", "Powdery Mildew", "Stem Borer"],
+        "soil": "Black cotton",
+        "rainfall_mm": 850,
+        "temperature_c": "26-38",
+        "water_requirement": "High"
+      },
+      "Salem": {
+        "crops": ["Mango", "Tamarind", "Maize", "Paddy", "Turmeric"],
+        "season": "All",
+        "diseases": ["Anthracnose", "Leaf Spot", "Stem Canker"],
+        "soil": "Red",
+        "rainfall_mm": 750,
+        "temperature_c": "24-36"
+      },
+      "Trichy": {
+        "crops": ["Paddy", "Banana", "Groundnut", "Sugarcane"],
+        "season": "Kharif",
+        "diseases": ["Brown Plant Hopper", "Tungro", "Sheath Blight"],
+        "soil": "Alluvial",
+        "rainfall_mm": 900,
+        "temperature_c": "24-36"
+      },
+      "Tirunelveli": {
+        "crops": ["Banana", "Rice", "Cashew", "Coconut"],
+        "season": "Kharif",
+        "diseases": ["Panama Wilt", "Sigatoka Leaf Spot", "Tip Burn"],
+        "soil": "Sandy loam",
+        "rainfall_mm": 750,
+        "temperature_c": "25-35"
+      },
+      "Erode": {
+        "crops": ["Turmeric", "Cotton", "Sugarcane", "Banana"],
+        "season": "Kharif",
+        "diseases": ["Rhizome Rot", "Leaf Blotch", "Wilt"],
+        "soil": "Red sandy",
+        "rainfall_mm": 700,
+        "temperature_c": "24-36"
+      }
+    }
+  },
+  "Karnataka": {
+    "capital": "Bengaluru",
+    "districts": {
+      "Mysuru": {
+        "crops": ["Sugarcane", "Rice", "Ragi", "Sericulture", "Turmeric"],
+        "season": "Kharif/Rabi",
+        "diseases": ["Red Rot", "Smut", "Pokkah Boeng"],
+        "soil": "Red laterite",
+        "rainfall_mm": 800
+      },
+      "Bengaluru": {
+        "crops": ["Vegetables", "Flowers", "Grapes", "Ragi"],
+        "season": "All",
+        "diseases": ["Downy Mildew", "Anthracnose", "Powdery Mildew"],
+        "soil": "Red",
+        "rainfall_mm": 920
+      },
+      "Dharwad": {
+        "crops": ["Cotton", "Sunflower", "Jowar", "Groundnut"],
+        "season": "Kharif",
+        "diseases": ["Alternaria Blight", "Fusarium Wilt", "Leaf Curl"],
+        "soil": "Black",
+        "rainfall_mm": 750
+      },
+      "Belagavi": {
+        "crops": ["Sugarcane", "Wheat", "Jowar", "Sunflower"],
+        "season": "Rabi",
+        "diseases": ["Whip Smut", "Root Rot", "Stalk Borer"],
+        "soil": "Deep black",
+        "rainfall_mm": 850
+      },
+      "Hassan": {
+        "crops": ["Coffee", "Areca Nut", "Rice", "Pepper"],
+        "season": "Kharif",
+        "diseases": ["Coffee Berry Disease", "Blossom Blight", "Root Rot"],
+        "soil": "Laterite",
+        "rainfall_mm": 1200
+      }
+    }
+  },
+  "Punjab": {
+    "capital": "Chandigarh",
+    "districts": {
+      "Ludhiana": {
+        "crops": ["Wheat", "Rice", "Maize", "Potato", "Sugarcane"],
+        "season": "Rabi/Kharif",
+        "diseases": ["Wheat Rust", "Leaf Blight", "Smut"],
+        "soil": "Alluvial",
+        "rainfall_mm": 700
+      },
+      "Amritsar": {
+        "crops": ["Wheat", "Rice", "Vegetables", "Pulses"],
+        "season": "Rabi",
+        "diseases": ["Yellow Rust", "Stem Rot", "Powdery Mildew"],
+        "soil": "Alluvial",
+        "rainfall_mm": 680
+      },
+      "Patiala": {
+        "crops": ["Wheat", "Rice", "Sugarcane", "Maize"],
+        "season": "Rabi/Kharif",
+        "diseases": ["Crown Rot", "Smut", "Stalk Borer"],
+        "soil": "Sandy loam",
+        "rainfall_mm": 650
+      },
+      "Jalandhar": {
+        "crops": ["Wheat", "Rice", "Citrus", "Potato"],
+        "season": "Rabi",
+        "diseases": ["Citrus Canker", "Greening", "Yellow Rust"],
+        "soil": "Alluvial",
+        "rainfall_mm": 700
+      }
+    }
+  },
+  "Maharashtra": {
+    "capital": "Mumbai",
+    "districts": {
+      "Pune": {
+        "crops": ["Sugarcane", "Grapes", "Onion", "Tomato", "Pomegranate"],
+        "season": "All",
+        "diseases": ["Downy Mildew", "Fusarium Wilt", "Botrytis"],
+        "soil": "Black",
+        "rainfall_mm": 700
+      },
+      "Nashik": {
+        "crops": ["Grapes", "Onion", "Tomato", "Maize"],
+        "season": "Rabi",
+        "diseases": ["Powdery Mildew", "Botrytis", "Purple Blotch"],
+        "soil": "Sandy",
+        "rainfall_mm": 650
+      },
+      "Nagpur": {
+        "crops": ["Orange", "Cotton", "Soybean", "Wheat"],
+        "season": "Kharif",
+        "diseases": ["Citrus Tristeza", "Cotton Wilt", "Yellow Mosaic"],
+        "soil": "Red loamy",
+        "rainfall_mm": 1050
+      },
+      "Aurangabad": {
+        "crops": ["Cotton", "Soybean", "Jowar", "Grapes"],
+        "season": "Kharif",
+        "diseases": ["Yellow Mosaic", "Bacterial Blight", "Charcoal Rot"],
+        "soil": "Medium black",
+        "rainfall_mm": 750
+      }
+    }
+  },
+  "Andhra Pradesh": {
+    "capital": "Amaravati",
+    "districts": {
+      "Guntur": {
+        "crops": ["Chilli", "Cotton", "Tobacco", "Rice", "Maize"],
+        "season": "Kharif",
+        "diseases": ["Anthracnose", "Leaf Curl", "Die Back"],
+        "soil": "Black alluvial",
+        "rainfall_mm": 900
+      },
+      "Kurnool": {
+        "crops": ["Paddy", "Groundnut", "Jowar", "Sunflower"],
+        "season": "Kharif/Rabi",
+        "diseases": ["Early Leaf Spot", "Tikka", "Rust"],
+        "soil": "Red",
+        "rainfall_mm": 640
+      },
+      "Krishna": {
+        "crops": ["Rice", "Sugarcane", "Banana", "Tobacco"],
+        "season": "Kharif",
+        "diseases": ["Rice Blast", "Sheath Rot", "Brown Spot"],
+        "soil": "Deep alluvial",
+        "rainfall_mm": 950
+      }
+    }
+  },
+  "Uttar Pradesh": {
+    "capital": "Lucknow",
+    "districts": {
+      "Lucknow": {
+        "crops": ["Wheat", "Rice", "Sugarcane", "Potato", "Mango"],
+        "season": "Rabi/Kharif",
+        "diseases": ["Yellow Rust", "Stem Borer", "Wilt"],
+        "soil": "Alluvial",
+        "rainfall_mm": 850
+      },
+      "Agra": {
+        "crops": ["Wheat", "Mustard", "Vegetables", "Potato"],
+        "season": "Rabi",
+        "diseases": ["Alternaria Blight", "White Rust", "Powdery Mildew"],
+        "soil": "Sandy loam",
+        "rainfall_mm": 680
+      },
+      "Meerut": {
+        "crops": ["Sugarcane", "Wheat", "Potato", "Maize"],
+        "season": "All",
+        "diseases": ["Smut", "Grassy Shoot", "Red Rot"],
+        "soil": "Sandy loam",
+        "rainfall_mm": 780
+      }
+    }
+  },
+  "West Bengal": {
+    "capital": "Kolkata",
+    "districts": {
+      "Kolkata": {
+        "crops": ["Rice", "Vegetables", "Jute", "Maize"],
+        "season": "Kharif",
+        "diseases": ["Stem Rot", "Bacterial Blight", "Jute Stem Rot"],
+        "soil": "Alluvial",
+        "rainfall_mm": 1600
+      },
+      "Darjeeling": {
+        "crops": ["Tea", "Cardamom", "Ginger", "Maize"],
+        "season": "All",
+        "diseases": ["Blister Blight", "Red Spider Mite", "Die Back"],
+        "soil": "Acidic loam",
+        "rainfall_mm": 3000
+      }
+    }
+  },
+  "Rajasthan": {
+    "capital": "Jaipur",
+    "districts": {
+      "Jaipur": {
+        "crops": ["Wheat", "Mustard", "Bajra", "Gram"],
+        "season": "Rabi",
+        "diseases": ["Alternaria Blight", "White Rust", "Aphids"],
+        "soil": "Sandy loam",
+        "rainfall_mm": 550
+      },
+      "Jodhpur": {
+        "crops": ["Bajra", "Moth Bean", "Cluster Bean", "Cumin"],
+        "season": "Kharif",
+        "diseases": ["Downy Mildew", "Ergot", "Stem Rot"],
+        "soil": "Sandy",
+        "rainfall_mm": 380
+      }
+    }
+  },
+  "Gujarat": {
+    "capital": "Gandhinagar",
+    "districts": {
+      "Ahmedabad": {
+        "crops": ["Cotton", "Wheat", "Groundnut", "Tobacco"],
+        "season": "Kharif/Rabi",
+        "diseases": ["Leaf Curl", "Bollworm", "Alternaria"],
+        "soil": "Black",
+        "rainfall_mm": 750
+      },
+      "Surat": {
+        "crops": ["Sugarcane", "Rice", "Vegetables", "Mango"],
+        "season": "Kharif",
+        "diseases": ["Red Rot", "Wilt", "Leaf Blight"],
+        "soil": "Alluvial",
+        "rainfall_mm": 1100
+      }
+    }
+  }
+}
